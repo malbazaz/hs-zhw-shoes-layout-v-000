@@ -331,14 +331,17 @@ footer a {
 
 .right_col{
   float:left;
-  width:30%
+  width:30%;
+  size:30%;
 }
 
 .mid_col{
   float:left;
   width:30%;
+  size:30%;
 }
 .left_col{
   float:left;
   width:30%;
+  size:30%;
 }
