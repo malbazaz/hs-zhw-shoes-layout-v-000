@@ -308,8 +308,7 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
-.clearfix::after {
-  overflow: auto;
+.clearfix:after {
     content: ".";
     clear: both;
     display: table;
