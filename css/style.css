@@ -304,7 +304,10 @@ footer a {
 
 /* code examples copyright Jonathan Grover 2012 */
 .clearfix::after {
-    content: "";
+    content: ".";
     clear: both;
-    display: none;
+    display: block;
+    visibility: hidden;
+    height: 0;
+    line-height:0;
 }
