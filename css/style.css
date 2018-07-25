@@ -335,6 +335,7 @@ footer a {
 }
 
 .mid_col{
+  float:left;
   width:30%;
 }
 .left_col{
