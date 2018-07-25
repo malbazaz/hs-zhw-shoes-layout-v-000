@@ -14,7 +14,7 @@
   display: block;
   clear: both;
   visibility: hidden;
-  height: 20;
+  height: 0;
   line-height: 0;
 }
 
