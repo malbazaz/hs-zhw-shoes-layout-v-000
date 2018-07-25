@@ -316,3 +316,13 @@ footer a {
     height: 0;
     line-height:0;
 }
+
+.col1{
+  float:left;
+  width:60%
+}
+
+.col2{
+  float:right;
+  width:35%;
+}
