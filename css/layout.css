@@ -15,7 +15,7 @@
   clear: both;
   visibility: hidden;
   height: 20;
-  line-height: 20;
+  line-height: 0;
 }
 
 .clear {
