@@ -311,11 +311,11 @@ footer a {
 .clearfix::after {
     content: ".";
     clear: both;
-    display: block;
+    display: table;
     visibility: hidden;
     height: 0;
     line-height:0;
-    overflow: auto;
+
 }
 
 .col1{
